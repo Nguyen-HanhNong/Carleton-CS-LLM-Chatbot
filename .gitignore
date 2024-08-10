@@ -1,0 +1,8 @@
+# ENV files
+.env.local
+
+# Node specific files
+package-lock.json
+node_modules
+.next
+.DS_Store
