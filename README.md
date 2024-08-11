@@ -22,8 +22,6 @@
 
 This project is an implementation of a customized chatbot, powered by a Llama LLM model from Meta. The chatbot is designed to provide information about the Carleton University Computer Science program. The chatbot is built using NextJS, React, Material-UI, and OpenRouter and OpenAI API. 
 
-The chatbot is deployed and hosted on an AWS EC2 instance, and can be found at: [Carleton CS LLM Chatbot](http://ec2-3-146-37-107.us-east-2.compute.amazonaws.com/)
-
 ## Getting Started
 
 ### Prerequisites
