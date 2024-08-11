@@ -9,11 +9,11 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![OpenAI](https://a11ybadges.com/badge?logo=openai)
 
-![GitHub contributors](https://img.shields.io/github/contributors/Nguyen-HanhNong/landing-page?color=ffcc66&style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/Nguyen-HanhNong/landing-page?color=ffcc66&style=for-the-badge)
-[![GitHub forks](https://img.shields.io/github/forks/Nguyen-HanhNong/landing-page?style=for-the-badge)](https://github.com/Nguyen-HanhNong/star_book/network)
-[![GitHub issues](https://img.shields.io/github/issues/Nguyen-HanhNong/landing-page?color=ffcc66&style=for-the-badge)](https://github.com/Nguyen-HanhNong/star_book/issues)
-[![GitHub license](https://img.shields.io/github/license/Nguyen-HanhNong/landing-page?color=ffcc66&style=for-the-badge)](https://github.com/Nguyen-HanhNong/Carleton-CS-LLM-Chatbot/blob/master/LICENSE)
+![GitHub contributors](https://img.shields.io/github/contributors/Nguyen-HanhNong/Carleton-CS-LLM-Chatbot?color=ffcc66&style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/Nguyen-HanhNong/Carleton-CS-LLM-Chatbot?color=ffcc66&style=for-the-badge)
+[![GitHub forks](https://img.shields.io/github/forks/Nguyen-HanhNong/Carleton-CS-LLM-Chatbot?style=for-the-badge)](https://github.com/Nguyen-HanhNong/star_book/network)
+[![GitHub issues](https://img.shields.io/github/issues/Nguyen-HanhNong/Carleton-CS-LLM-Chatbot?color=ffcc66&style=for-the-badge)](https://github.com/Nguyen-HanhNong/star_book/issues)
+[![GitHub license](https://img.shields.io/github/license/Nguyen-HanhNong/Carleton-CS-LLM-Chatbot?color=ffcc66&style=for-the-badge)](https://github.com/Nguyen-HanhNong/Carleton-CS-LLM-Chatbot/blob/master/LICENSE)
 [![Node Version](https://img.shields.io/static/v1?label=Node&message=^20.10.0&color=026e00&style=for-the-badge)](https://nodejs.org)
 [![npm Version](https://img.shields.io/static/v1?label=npm&message=^10.2.3&color=cb0000&style=for-the-badge)](https://nodejs.org)
 
