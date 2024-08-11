@@ -6,3 +6,9 @@ package-lock.json
 node_modules
 .next
 .DS_Store
+
+# SSH keys
+*.pem
+
+# private readme
+PRIVATE_README.md
